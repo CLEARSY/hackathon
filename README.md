@@ -24,6 +24,7 @@ To use it properly, do as follow:
 - execute script *startAB.cmd* to start Atelier B
 - you could be asked to relocate your projects directory. Please choose *E:/CSSP_for_education_20230522/CSSP/CSSP_WORKSPACE*. If you choose another directory, it is not going to work at all.
 - the Atelier B window should open, with the list of existing projects in the *CSSP_WORKSPACE*. If not, probably you need to run register again.
+- Important ! Modify the Atelier B / preferences / Default project directory to point to *E:/CSSP_for_education_20230522/CSSP/CSSP_WORKSPACE*
 - this Atelier B supports CLEARSY Safty Platform projects. To create one, create a project, select "software development" and "CSSP project". Then create a board, click OK. After few seconds, the central window will show a CSSP project.
 - The project can be compiled and uploaded on a CLEARSY Safety Platform board, if you have one. Select the (open) project then "CSSP Runner".
 
