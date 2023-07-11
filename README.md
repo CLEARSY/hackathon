@@ -17,7 +17,9 @@ To use it properly, do as follow:
 - plug your USB key in a USB 3.0 (blue) port, unless it is going to be quite slow. It is supposed to be seen as E:
 - open a file explorer on E:
 - got to directory CSSP_for_education_20230522/CSSP
+
 ![directory](https://github.com/CLEARSY/hackathon/assets/9130810/f31a6148-6116-40b3-9757-da51617007b2)
+
 - execute script Register_CSSP.cmd
 - execute script startAB.cmd to start Atelier B
 - you could be asked to relocate your projects directory. Please choose E:/CSSP_for_education_20230522/CSSP/CSSP_WORKSPACE. If you chosse another directory, it is not going to work at all.
