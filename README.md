@@ -26,5 +26,11 @@ To use it properly, do as follow:
 - the Atelier B window should open, with the list of existing projects in the *CSSP_WORKSPACE*. If not, probably you need to run register again.
 - this Atelier B supports CLEARSY Safty Platform projects. To create one, create a project, select "software development" and "CSSP project". Then create a board, click OK. After few seconds, the central window will show a CSSP project.
 - The project can be compiled and uploaded on a CLEARSY Safety Platform board, if you have one. Select the (open) project then "CSSP Runner".
+
+![runner](https://github.com/CLEARSY/hackathon/assets/9130810/c779fa39-2d98-4f8e-9437-ddc6141e494a)
+
 - The project can be compiled and simulated (only one processor i.e. half a board). Select the (open) project then "SK0 emulation".
+
+![emulator](https://github.com/CLEARSY/hackathon/assets/9130810/dcaa431f-cdb1-4129-8ea8-f4babcfc95d8)
+
 More information about the programming of the CLEARSY Safety Platform is found in the [CSSP_User_Manual.pdf](https://github.com/CLEARSY/hackathon/blob/main/CSSP_User_Manual.pdf) 
