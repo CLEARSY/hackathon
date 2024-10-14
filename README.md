@@ -7,24 +7,7 @@ This site contains some resources used for the Hackathon:
 
 Required tools are:
 - B modelling: [ProB](https://prob.hhu.de/w/index.php?title=Installation) (zip + third-party installers)
-- CLEARSY Safety Platform modelling: [Atelier CSSP IDE](https://clearsy.com/wp-content/uploads/2023/05/CSSP_for_education_20230522.zip) (zip)
-
-By default, use:
-- [Atelier B](https://www.atelierb.eu/en/atelier-b-support-maintenance/download-atelier-b/)  (installer)
-
-The Atelier CSSP IDE is distributed on a USB 3.0 key. 
-To use it properly, do as follow:
-- plug your USB key in a USB 3.0 (blue) port, unless it is going to be quite slow. It is supposed to be seen as E:
-- open a file explorer on E:
-- got to directory CSSP_for_education_20230522/CSSP
-
-![directory](https://github.com/CLEARSY/hackathon/assets/9130810/f31a6148-6116-40b3-9757-da51617007b2)
-
-- execute script *Register_CSSP.cmd*
-- execute script *startAB.cmd* to start Atelier B
-- you could be asked to relocate your projects directory. Please choose *E:/CSSP_for_education_20230522/CSSP/CSSP_WORKSPACE*. If you choose another directory, it is not going to work at all.
-- the Atelier B window should open, with the list of existing projects in the *CSSP_WORKSPACE*. If not, probably you need to run register again.
-- Important ! Modify the Atelier B / preferences / Default project directory to point to *E:/CSSP_for_education_20230522/CSSP/CSSP_WORKSPACE*
+- Atelier B 24.04 CLEARSY Safety Platform: [Atelier CSSP IDE](https://www.atelierb.eu/en/atelier-b-support-maintenance/download-atelier-b/) for Windows and Linux (several distros).
 - this Atelier B supports CLEARSY Safty Platform projects. To create one, create a project, select "software development" and "CSSP project". Then create a board, click OK. After few seconds, the central window will show a CSSP project.
 - The project can be compiled and uploaded on a CLEARSY Safety Platform board, if you have one. Select the (open) project then "CSSP Runner".
 
